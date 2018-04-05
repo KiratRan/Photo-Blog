@@ -1,26 +1,16 @@
-img{
-    width: 30%;
-    float: left;
-    margin: 1.66%;
-}
-
-h3
+h1
 {
-    font-family: cursive;
+    font-family: 'Montserrat', sans-serif;
     font-size: 18px;
-    color: white;
-    margin-left: 1.66%;
-    border-bottom: 2px solid #f1f1f141;
-    padding-bottom: 5px;
-    width: 30%;
-}
-
-#blackAlbum
-{
-    width: 29.756%;
 }
 
 body
 {
-    background-color: rgb(78, 78, 78);
+    background-color: rgb(240, 240, 240);
+    padding-top: 70px;
+}
+
+.jumbotron
+{
+    background-color: rgb(210, 210, 210)
 }
